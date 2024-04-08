@@ -1,9 +1,15 @@
 # FastAPI
 
-Proyecto realizado con python.
+Entre las características de FastAPI se incluyen:
 
-Es un sistema de ventas donde se implemento los metodos Get, Post, Put y Delete de las mismas.
+Permite la creación de API's con pocas líneas de código
 
-Tambien tiene un login para que el usuario se pueda autenticar antes de usar la aplicación.
+Permite la creación de API's con una documentación automatizada
+
+Permite la creación de API's con validación de parámetros automáticamente
+
+Permite la creación de API's con seguridad automáticamente
+
+Permite la creación de API's con autenticación automáticamente
 
 URL: https://fastapi-l2ou.onrender.com/docs
