@@ -1,4 +1,6 @@
-# FastAPI
+# Aplicacion de ventas
+
+Backend con python + fastapi.
 
 Entre las características de FastAPI se incluyen:
 
